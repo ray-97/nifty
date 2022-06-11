@@ -1,3 +1,5 @@
+# Disclaimer: Packages have to be included again. Accidentally deleted them when committing changes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
